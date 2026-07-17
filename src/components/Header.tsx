@@ -50,7 +50,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center gap-3 group">
               <AppLogo
-                src="/assets/images/WebForge_Lgo1-1784218497324.jpeg"
+                src="/assets/WebForge_Lgo1-1784218497324.jpeg"
                 size={44}
                 className="rounded-lg overflow-hidden"
               />

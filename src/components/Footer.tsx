@@ -10,7 +10,7 @@ export default function Footer() {
           {/* Logo + Brand */}
           <div className="flex items-center gap-3">
             <AppLogo
-              src="/assets/images/WebForge_Lgo1-1784218497324.jpeg"
+              src="/assets/WebForge_Lgo1-1784218497324.jpeg"
               size={36}
               className="rounded-lg overflow-hidden"
             />
