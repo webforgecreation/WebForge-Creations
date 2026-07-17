@@ -10,8 +10,8 @@ const contactDetails = [
       </svg>
     ),
     label: 'Phone',
-    value: '+91 91219 04484',
-    link: 'tel:+919121904484',
+    value: '+91 70933 34484',
+    link: 'tel:+917093334484',
     color: '#2563EB',
   },
   {
