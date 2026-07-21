@@ -70,7 +70,7 @@ export async function POST(req: NextRequest) {
     const payload = {
       sender: {
         name: 'WebForge Creations Website',
-        email: 'webforgecreation@gmail.com',
+        email: 'noreply@11682414.brevo-mail.com',
       },
       to: [
         {
